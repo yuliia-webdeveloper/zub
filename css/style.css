@@ -998,11 +998,12 @@ body {
   padding-top: 50px;
 }
 
-.no-webp .header2_content{
-  background: url("../img/header_bg.jpg") center center no-repeat; }
+.header2_content{
+ background: url("../img/header_bg.jpg") center center no-repeat;
+background-position: contain;}
 
 .header2_content {
-  background-position: cover;
+  background-position: contain;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
