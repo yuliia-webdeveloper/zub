@@ -1866,4 +1866,5 @@ body.compensate-for-scrollbar {
 
 .webp .parallax_wrap{ background-image: url(../img/zub.webp); }
 
-.webp .header2_content{ background: url(../img/header_bg.webp) center center no-repeat; }
+.webp .header2_content{ background: url(../img/header_bg.webp) center center no-repeat;
+background-position: contain;}
