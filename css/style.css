@@ -1000,10 +1000,10 @@ body {
 
 .header2_content{
  background: url("../img/header_bg.jpg") center center no-repeat;
-background-position: contain;}
+background-size: contain;}
 
 .header2_content {
-  background-position: contain;
+  background-size: contain;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
