@@ -910,7 +910,7 @@ body {
 }
 
 .product_item .slider .slick-arrow.slick-next {
-  right: 0;
+  right: -18px;
   top: 60%;
   background: url("../img/arrow_r.svg") 0 0/40% no-repeat;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
