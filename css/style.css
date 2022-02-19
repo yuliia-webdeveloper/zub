@@ -1661,6 +1661,7 @@ body.compensate-for-scrollbar {
   .header_logo img {
     max-width: 130px;
     padding: 0 5px;
+    margin-left:20px;
   }
 
   .dunaev {
