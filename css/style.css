@@ -1669,6 +1669,7 @@ body.compensate-for-scrollbar {
 @media (max-width: 450px) {
   .parallax_wrap {
     margin-bottom: 15px;
+    margin-top: 20px;
   }
 
   .header_logo img {
