@@ -1902,6 +1902,12 @@ body.compensate-for-scrollbar {
   }
 }
 
+@media (max-width: 390px) {
+.mousebg img {
+    max-width: 53%;
+}
+}
+
 @media (max-width: 365px) {
      .mousebg2 img {
     width: 60%;
