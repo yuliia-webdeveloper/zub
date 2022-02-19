@@ -1935,6 +1935,7 @@ body.compensate-for-scrollbar {
     }
     .header_logo img {
         max-width: 100px;
+        margin-left: 0px;
     }
 }
 
