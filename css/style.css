@@ -1913,7 +1913,11 @@ body.compensate-for-scrollbar {
   }
 .header2_logo img {
     max-width: auto;
-}}
+}
+    .header2_content {
+    justify-content: space-between
+}
+}
 
 .webp .parallax_wrap{ background-image: url(../img/zub.webp); }
 
