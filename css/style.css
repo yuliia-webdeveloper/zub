@@ -1911,6 +1911,8 @@ body.compensate-for-scrollbar {
     font-size: 10px;
     text-align: center;
   }
+.header2_logo img {
+    max-width: auto;
 }
 
 .webp .parallax_wrap{ background-image: url(../img/zub.webp); }
