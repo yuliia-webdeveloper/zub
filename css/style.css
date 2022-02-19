@@ -1709,21 +1709,21 @@ body.compensate-for-scrollbar {
   }
 
   .mouse-parallax-bg img {
-    width: 66%;
+    width: 62%;
       padding: 50px 50px 50px 30px;
   }
 
   .mousebg {
-    left: 45%;
+    left: 42%;
   }
 
   .mousebg img {
-    max-width: 58%;
+    max-width: 60%;
   }
 
   .mousebg2 {
     top: 135px;
-    left: 40%;
+    left: 38%;
   }
 
   .mousebg2 img {
@@ -1736,7 +1736,7 @@ body.compensate-for-scrollbar {
   }
 
   .mousebg3 img {
-    width: 57%;
+    width: 52%;
      padding: 50px 50px 50px 30px;
   }
 
