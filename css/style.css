@@ -1937,6 +1937,9 @@ body.compensate-for-scrollbar {
         max-width: 100px;
         margin-left: 0px;
     }
+    .footer_logo {
+    max-width: 100px;
+    }
 }
 
 .webp .parallax_wrap{ background-image: url(../img/zub.png); }
