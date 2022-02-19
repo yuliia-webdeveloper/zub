@@ -1920,6 +1920,12 @@ body.compensate-for-scrollbar {
     .header2 {
     width: auto;
     }}
+@media (max-width: 340px) {
+    .header_tel::before {
+    content: url(../img/phone.svg);
+    height: 10px;
+    width: 10px;
+    }}
 
 .webp .parallax_wrap{ background-image: url(../img/zub.png); }
 
