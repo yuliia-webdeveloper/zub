@@ -1885,7 +1885,9 @@ body.compensate-for-scrollbar {
   .product_card .slick-list {
     max-width: 250px !important;
   }
-
+.header_tel a {
+  font-size: 9px;
+  }
   .header_shop2 a {
     padding: 5px 10px;
     font-size: 10px;
