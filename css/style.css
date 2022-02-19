@@ -1919,9 +1919,9 @@ body.compensate-for-scrollbar {
 }
     .header2 {
     width: auto;
-}
+    }}
 
-.webp .parallax_wrap{ background-image: url(../img/zub.webp); }
+.webp .parallax_wrap{ background-image: url(../img/zub.png); }
 
 .webp .header2_content{ background: url(../img/header_bg.jpg) center center no-repeat;
 background-size: contain;}
