@@ -1917,6 +1917,8 @@ body.compensate-for-scrollbar {
     .header2_content {
     justify-content: space-between
 }
+    .header2 {
+    width: auto;
 }
 
 .webp .parallax_wrap{ background-image: url(../img/zub.webp); }
