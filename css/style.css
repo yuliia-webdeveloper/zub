@@ -1919,7 +1919,9 @@ body.compensate-for-scrollbar {
 }
     .header2 {
     width: auto;
-    }}
+    }
+}
+
 @media (max-width: 340px) {
     .header_tel::before {
     content: url(../img/phone.svg);
