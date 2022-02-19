@@ -1902,6 +1902,10 @@ body.compensate-for-scrollbar {
 .header_tel a {
   font-size: 9px;
   }
+ .header_tel{
+     min-width: 0px; 
+}
+    }
   .header_shop2 a {
     padding: 5px 10px;
     font-size: 10px;
