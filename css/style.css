@@ -1667,6 +1667,10 @@ body.compensate-for-scrollbar {
 }
 
 @media (max-width: 450px) {
+    .mouse-parallax {
+     padding-top: 0px;
+    }
+    
   .parallax_wrap {
     margin-bottom: 15px;
     margin-top: 20px;
@@ -1701,7 +1705,7 @@ body.compensate-for-scrollbar {
   }
 
   .mouse-parallax-bg img {
-    width: 60%;
+    width: 62%;
   }
 
   .mousebg {
@@ -1709,7 +1713,7 @@ body.compensate-for-scrollbar {
   }
 
   .mousebg img {
-    max-width: 50%;
+    max-width: 55%;
   }
 
   .mousebg2 {
@@ -1718,16 +1722,16 @@ body.compensate-for-scrollbar {
   }
 
   .mousebg2 img {
-    width: 50%;
+    width: 55%;
   }
 
   .mousebg3 {
-    top: 140px;
+    top: 125px;
     left: 5%;
   }
 
   .mousebg3 img {
-    width: 45%;
+    width: 51%;
   }
 
   .mousebg4 {
