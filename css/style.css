@@ -1,6 +1,11 @@
 @charset "UTF-8";
 
 /*Обнуление*/
+
+img[src=""] {
+    display: none;
+}
+
 @font-face {
   font-family: "Akzentica4F";
   src: url("../fonts/Akzentica4FLight.ttf");
