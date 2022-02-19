@@ -1709,7 +1709,7 @@ body.compensate-for-scrollbar {
   }
 
   .mouse-parallax-bg img {
-    width: 62%;
+    width: 55%;
       padding: 50px 50px 50px 30px;
   }
 
@@ -1718,7 +1718,7 @@ body.compensate-for-scrollbar {
   }
 
   .mousebg img {
-    max-width: 60%;
+    max-width: 50%;
   }
 
   .mousebg2 {
@@ -1727,7 +1727,7 @@ body.compensate-for-scrollbar {
   }
 
   .mousebg2 img {
-    width: 60%;
+    width: 50%;
   }
 
   .mousebg3 {
@@ -1736,7 +1736,7 @@ body.compensate-for-scrollbar {
   }
 
   .mousebg3 img {
-    width: 52%;
+    width: 45%;
      padding: 50px 50px 50px 30px;
   }
 
@@ -1903,6 +1903,20 @@ body.compensate-for-scrollbar {
 }
 
 @media (max-width: 365px) {
+     .mousebg2 img {
+    width: 60%;
+  }
+
+     .mousebg3 img {
+         width: 52%;
+    }
+    .mousebg img {
+    max-width: 60%;
+  }
+     .mouse-parallax-bg img {
+    width: 62%;
+  }
+
   .slider_img {
     width: 250px !important;
   }
