@@ -12,6 +12,21 @@
     height: 450px !important;
 } */
 
+ @media (max-width: 800px){
+.mouse-parallax {
+    height: 750px !important;
+	 }
+.mousebg2 {
+    top: 30% !important;
+    left: 10% !important;
+}
+.mousebg3 {
+    top: 30% !important;
+    left: 60% !important;
+}
+}
+
+
 
 img[src=""] {
     display: none;
@@ -1328,17 +1343,17 @@ body.compensate-for-scrollbar {
   }
 
   .mousebg2 {
-    top: 30%;
+    top: 60%;
     left: 10%;
   }
 
   .mousebg3 {
-    top: 30%;
+    top: 60%;
     left: 60%;
   }
 
   .mouse-parallax {
-    height: 750px;
+    height: 400px;
   }
 
   .mousebg4 {
