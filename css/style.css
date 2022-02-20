@@ -1,16 +1,18 @@
 @charset "UTF-8";
 
 /*Обнуление*/
-@media (max-width: 450px) {
 /*     РАЗКОМЕНТИРОВАТЬ ПРИ ДОБАВЛЕНИИКАТЕГОРИЙ ТОВАРА НА ГЛАВНОМ ЭКРАНЕ(убрать слеши со звездочкой в начале и конце строки) */
+/* @media (max-width: 450px) {
+
     
 /*   .mouse-parallax {
   height: 500px !important;
   } */
 }
-/* .mouse-parallax {
+/* @media (max-width: 550px) {
+.mouse-parallax {
     height: 450px !important;
-} */
+} }*/
 
 /*  @media (max-width: 800px){
 .mouse-parallax {
