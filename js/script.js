@@ -229,5 +229,11 @@ $('.slider_body' ).each(function(index) {
 	});
   });
   });
+
+
+if(!!window.performance && window.performance.navigation.type == 2)
+{
+    window.location.reload();
+}
  
 	
