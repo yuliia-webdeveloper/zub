@@ -36,46 +36,37 @@ img[src=""] {
 
 @font-face {
 	font-family: 'Supermolot';
-	src: url('Supermolot.eot');
+	src: url('../fonts/Supermolot.eot');
 	src: local('Supermolot'),
-		url('Supermolot.eot?#iefix') format('embedded-opentype'),
-		url('Supermolot.woff') format('woff'),
-		url('Supermolot.ttf') format('truetype');
+		url('../fonts/Supermolot.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Supermolot.woff') format('woff'),
+		url('../fonts/Supermolot.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Supermolot';
-	src: url('Supermolot-Light.eot');
+	src: url('../fonts/Supermolot-Light.eot');
 	src: local('Supermolot Light'), local('Supermolot-Light'),
-		url('Supermolot-Light.eot?#iefix') format('embedded-opentype'),
-		url('Supermolot-Light.woff') format('woff'),
-		url('Supermolot-Light.ttf') format('truetype');
+		url('../fonts/Supermolot-Light.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Supermolot-Light.woff') format('woff'),
+		url('../fonts/Supermolot-Light.ttf') format('truetype');
 	font-weight: 300;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Supermolot';
-	src: url('Supermolot-Bold.eot');
+	src: url('../fonts/Supermolot-Bold.eot');
 	src: local('Supermolot Bold'), local('Supermolot-Bold'),
-		url('Supermolot-Bold.eot?#iefix') format('embedded-opentype'),
-		url('Supermolot-Bold.woff') format('woff'),
-		url('Supermolot-Bold.ttf') format('truetype');
+		url('../fonts/Supermolot-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Supermolot-Bold.woff') format('woff'),
+		url('../fonts/Supermolot-Bold.ttf') format('truetype');
 	font-weight: bold;
 	font-style: normal;
 }
-@font-face {
-	font-family: 'Supermolot';
-	src: url('Supermolot-Thin.eot');
-	src: local('Supermolot Thin'), local('Supermolot-Thin'),
-		url('Supermolot-Thin.eot?#iefix') format('embedded-opentype'),
-		url('Supermolot-Thin.woff') format('woff'),
-		url('Supermolot-Thin.ttf') format('truetype');
-	font-weight: 100;
-	font-style: normal;
-}
+
 * {
   padding: 0;
   margin: 0;
