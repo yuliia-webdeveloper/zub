@@ -219,7 +219,7 @@ h6 {
 
 .header_tel a {
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 500;
   padding-bottom: 5px;
   display: inline-block;
   color: #fff;
@@ -1261,7 +1261,7 @@ body.compensate-for-scrollbar {
   color: #8f8f8f;
   font-size: 30px;
   line-height: 1.15;
-  font-weight: 700;
+  font-weight: 500;
   padding: 0 10px 0px 0px;
 }
 
@@ -1283,7 +1283,7 @@ body.compensate-for-scrollbar {
   color: #3d3d3d;
   font-size: 15px;
   line-height: 1.12;
-  font-weight: 700;
+  font-weight: 500;
   margin-bottom: 20px;
   margin-top: 30px;
   letter-spacing: 0.3px;
@@ -1302,7 +1302,7 @@ body.compensate-for-scrollbar {
   display: block;
   color: #3d3d3d;
   font-size: 50px;
-  font-weight: 700;
+  font-weight: 500;
   margin-bottom: 10px;
   text-align: center;
 }
